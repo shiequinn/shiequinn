@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about web.
 - 🌱 I’m currently studying as Web developer 
 - 💞️ I’m looking to collaborate hard working human being and willing to teach me.
-- 📫 How to reach me @shiequinn0603@gmail.com
+- 📫 How to reach me @a.n.s.q_WebDev.co@outlook.com
 - 😄 Pronouns:"hmmmmm"
 - ⚡ Fun fact: Push yourself to be a better person.
 
