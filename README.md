@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shiequinn
-- 👀 I’m interested in learning more about web.
-- 🌱 I’m currently studying as Web developer 
-- 💞️ I’m looking to collaborate hard working human being and willing to teach me.
-- 📫 How to reach me @a.n.s.q_WebDev.co@outlook.com
-- 😄 Pronouns:"hmmmmm"
-- ⚡ Fun fact: Push yourself to be a better person.
+- 👀 I’m passionate about expanding my knowledge in web development.
+- 🌱 I’m a graduate in Web Development, eager to apply and grow my skills. 
+- 💞️ I’m seeking collaboration with dedicated and hardworking individuals willing to share their expertise and learn together. 
+- 📫 You can reach me at: a.n.s.q_WebDev.co@outlook.com
+- 😄 Pronouns: He/Him (or specify your pronouns) 
+- ⚡ Fun Fact: Always push yourself to become a better version of yourself.
 
 <!---
 shiequinn/shiequinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
