@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiequinn
+- 👋 Hi, I’m @Ana marie 
 - 👀 I’m passionate about expanding my knowledge in web development.
 - 🌱 I’m a graduate in Web Development, eager to apply and grow my skills. 
 - 💞️ I’m seeking collaboration with dedicated and hardworking individuals willing to share their expertise and learn together. 
