@@ -3,7 +3,6 @@
 - 🌱 I’m a graduate in Web Development, eager to apply and grow my skills. 
 - 💞️ I’m seeking collaboration with dedicated and hardworking individuals willing to share their expertise and learn together. 
 - 📫 You can reach me at: a.n.s.q_WebDev.co@outlook.com and shiequinn0601@gmail.com
-- 😄 Pronouns: He/Him (or specify your pronouns) 
 - ⚡ Fun Fact: Always push yourself to become a better version of yourself.
 
 <!---
